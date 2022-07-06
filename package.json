@@ -1,29 +1,29 @@
 {
-    "name": "ddd-domain-events-project",
-    "version": "1.0.0",
-    "description": "Studies for DDD",
-    "main": "index.js",
-    "scripts": {
-        "test": "jest"
-    },
-    "keywords": [
-        "DDD",
-        "Events",
-        "Architecture"
-    ],
-    "author": "Murilo Ribeiro",
-    "license": "ISC",
-    "devDependencies": {
-        "@swc/cli": "^0.1.57",
-        "@swc/core": "^1.2.210",
-        "@types/jest": "^28.1.4",
-        "@types/node": "^18.0.3",
-        "@typescript-eslint/eslint-plugin": "^5.30.5",
-        "@typescript-eslint/parser": "^5.30.5",
-        "eslint": "^8.19.0",
-        "jest": "^28.1.2",
-        "prettier": "2.7.1",
-        "ts-node": "^10.8.2",
-        "typescript": "^4.7.4"
-    }
+  "name": "ddd-domain-events-project",
+  "version": "1.0.0",
+  "description": "Studies for DDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "DDD",
+    "Events",
+    "Architecture"
+  ],
+  "author": "Murilo Ribeiro",
+  "license": "ISC",
+  "devDependencies": {
+    "@swc/cli": "^0.1.57",
+    "@swc/core": "^1.2.210",
+    "@types/jest": "^28.1.4",
+    "@types/node": "^18.0.3",
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
+    "eslint": "^8.19.0",
+    "jest": "^28.1.2",
+    "prettier": "2.7.1",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
 }
