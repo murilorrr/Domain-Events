@@ -1,0 +1,3 @@
+./dist
+/**/**.spec.**
+node_modules
