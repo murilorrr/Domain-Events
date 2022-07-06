@@ -1,3 +1,5 @@
 ./dist
 /**/**.spec.**
 node_modules
+./coverage
+.idea
